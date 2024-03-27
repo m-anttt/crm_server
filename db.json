@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "img": "shawl.jpg",
+      "title": "Накидка с узором",
+      "count": 1,
+      "price": 5000,
+      "priceTotal": 5000
+    },
+    {
+      "id": "2",
+      "img": "coat.jpg",
+      "title": "Жакет с принтом",
+      "count": 1,
+      "price": 15500,
+      "priceTotal": 15500
+    },
+    {
+      "id": "4",
+      "img": "tshirt.jpg",
+      "title": "Футболка из хлопка",
+      "count": 1,
+      "price": 990,
+      "priceTotal": 990
+    },
+    {
+      "id": "a6c7",
+      "img": "sweater.jpg",
+      "title": "Шерстяной свитер",
+      "count": 1,
+      "price": 12900,
+      "priceTotal": 12900
+    },
+    {
+      "id": "2e66",
+      "img": "denimjacket.jpg",
+      "title": "Джинсовая куртка",
+      "count": 1,
+      "price": 11500,
+      "priceTotal": 11500
+    }
+  ]
+}
